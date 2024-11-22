@@ -1,5 +1,5 @@
 # Metastasis-Tracker-AI-
-Develment of an AI tool to track hematic cancer metastasis
+Development of an AI tool to track hematic cancer metastasis
 
 Map diameter of arteries.
 
